@@ -14,4 +14,13 @@ Taking a deeper look into AI in education we can start listing the benefits and 
 
 We also want to start figuring out how we could implement these changes into the school system. Some suggestions could be training for educators and making specific AI for educators
 
+## Conclusion 
 
+Just wrap everything together and explore each of our individual points on our own and why this topic was important and how it will incorporated and release instagrams posts for them
+
+## Post Topics
+
+1. Introducing the topic of concerns that educators have with AI being integrated into the classroom.
+2. How AI can be used benefit students in the classroom.
+3. How AI can be used to benefit the educators in the classroom.
+4. An informative post educating professors about the risks associated with AI and what to look for to make sure students are not using AI incorectly.
