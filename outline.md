@@ -14,4 +14,8 @@ Taking a deeper look into AI in education we can start listing the benefits and 
 
 We also want to start figuring out how we could implement these changes into the shcool system. Some suggestions could be training for educators and making specific AI for educators
 
+## Conclusion 
+
+Just wrap everything together and explore each of our individual points on our own and why this topic was important and how it will incorporated and release instagrams posts for them
+
 
