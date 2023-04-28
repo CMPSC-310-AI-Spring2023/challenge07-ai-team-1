@@ -33,11 +33,11 @@ Together we are going to explore unique points surrounding this issue. Each of u
 
 Caption:
 
-As AI is becoming more prevalent in the classroom, educators are raising concerns around the impacts it will have on students' learning experience. Some concerns that are frequently brought up are:
+As AI is becoming more prevalent in the classroom, educators are raising concerns about the impacts it will have on students' learning experiences. Some concerns that are frequently brought up are:
 
 - AI takes away the opportunity to think critically through problems.
-- AI sucks the creativity our of the classroom.
-- Students will become to reliant on technology and AI.
-- The accuracy and bias of AI is uncertain.
+- AI sucks the creativity out of the classroom.
+- Students will become too reliant on technology and AI.
+- The accuracy and bias of AI are uncertain.
 
 But is AI really all that bad? Today we are going to take a deeper dive into some of the benefits and challenges of integrating AI into the education system.
