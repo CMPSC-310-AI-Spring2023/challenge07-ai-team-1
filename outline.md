@@ -27,11 +27,7 @@ Together we are going to explore unique points surrounding this issue. Each of u
 
 ## Instagram Posts
 
-### Post 1
-
-![Intro Image](Ai_Insta_Post.png)
-
-Caption:
+### Post 1 Caption
 
 As AI is becoming more prevalent in the classroom, educators are raising concerns about the impacts it will have on students' learning experiences. Some concerns that are frequently brought up are:
 
