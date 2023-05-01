@@ -38,6 +38,11 @@ As AI is becoming more prevalent in the classroom, educators are raising concern
 
 But is AI really all that bad? Today we are going to take a deeper dive into some of the benefits and challenges of integrating AI into the education system.
 
+### Post 2 Caption 
+Ai can be used in the classroom to students learn effectively when monitored and given the correct information students can use AI to research effectively. With this students are given the information they need faster than googling it. They can also use this to cite information. With these AI tools students will search for information from credible sources faster than sifting through information until they find what they need. 
+
+Ai when used correctly will become a powerful tool for students to take advantage off!
+
 ### Post 3 Caption
 AI can be used in a classroom setting to help educators teach. AI is evolving more and more by the day, and educators can use AI in certain ways to make things easier for them. If educators learned how to use AI, they could figure out how to use it to help them and their students. Educators could lighten their work load and they could also use it in certain ways to help them teach their students
 
