@@ -44,3 +44,16 @@ AI can be used in a classroom setting to help educators teach. AI is evolving mo
 Intelligent tutoring can be used by educators to improve student engagement and academic performance. This would help educators give their students a more personalized learning experience based on what the AI tutor says. AI can analyze student data and adapt to their learning styles by providing them with feedback that is tailored to their individual needs and abilities.
 
 AI can take on many of the time consuming jobs that educators are currently expected to do. For example record keeping, and marking up grades. It can also help educators do their planning for things and help them come up with ideas for projects and assignments. AI can be used to help educators come up with learning objectives for students as well.
+
+### Post 4 Caption
+
+AI can be used for beneficial reasons but also has risks associated with using things such as ChatGPT. Educators should embrace the potential benefits rather than fighting against it.
+
+Risks of AI are:
+- Decreased creativity from students.
+- Plagiarism/AI writing papers and giving homework and test answers.
+- Diminished memorization and decreased studying.
+- Reduced critical thinking skills.
+- Development of Laziness
+
+Teachers suspecting students of misusing AI should look for plagiarism, repeition of words or phrases, work that does not match style or quality usually seen with student. Not all instances indicate a misuse of AI but some could.
